@@ -1,7 +1,7 @@
 bar = int(64)
 ans = i = 0
 bCount = 0
-print('input the length of the bar ', end='')
+print('원하는 막대의 길이를 입력하세요 ', end='')
 X0 = input()
 X = int(X0)
 while i == 0:
